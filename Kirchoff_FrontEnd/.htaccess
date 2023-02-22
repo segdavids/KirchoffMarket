@@ -1,0 +1,10 @@
+
+RewriteEngine On
+RewriteBase /kirchoff/web
+
+RewriteRule ^home?$ index.php
+RewriteRule ^about?$ about.php
+RewriteRule ^contact?$ contact.php
+
+
+
